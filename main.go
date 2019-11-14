@@ -12,7 +12,7 @@ type User struct {
 }
 
 func userHandler(c echo.Context) error {
-	// id, _ := strconv.Atoi(c.QueryParam("id"))
+// tes
 	// user := User{ID: id, Name: "Poby"}
 	// if len(id) <= 3 {
 	// 	return c.JSON(http.StatusNotFound, "tidak ada")
